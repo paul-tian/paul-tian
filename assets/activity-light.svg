@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="184" viewBox="0 0 816 184" role="img" aria-labelledby="title description">
+  <title id="title">Public repository activity for paul-tian</title>
+  <desc id="description">13 public repositories excluding forks and this profile, 19 stars, 8 distinct GitHub primary languages. Repositories created by year: 2018: 7, 2020: 1, 2022: 1, 2024: 3, 2026: 1.</desc>
+  <rect x="0.5" y="0.5" width="815" height="183" rx="12" fill="#f8f6ef" stroke="#cbd3ce"/>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" fill="#111c26">
+    <text x="28" y="42" font-size="19" font-weight="600">Public repositories</text>
+    <text x="26" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="86">13</text>
+    <path d="m35 145.5 2.1 4.3 4.8.7-3.5 3.4.8 4.8-4.2-2.3-4.3 2.3.8-4.8-3.4-3.4 4.8-.7z" fill="none" stroke="#a3651a" stroke-width="1.6" stroke-linejoin="round"/>
+    <text x="49" y="158" font-size="16" fill="#465963">19 stars · 8 primary languages</text>
+    <path d="M316 27v130" stroke="#cbd3ce"/>
+    <text x="344" y="42" font-size="19" font-weight="600">Repositories created by year</text>
+    <g text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <path d="M344 137h440" stroke="#cbd3ce"/>
+    <rect x="358.4" y="79.0" width="20" height="58.0" rx="2" fill="#28786e"/>
+    <text x="368.4" y="72.0" fill="#111c26" font-size="13">7</text>
+    <text x="368.4" y="160" fill="#465963" font-size="13">2018</text>
+    <path d="M413.3 137h8" stroke="#465963" stroke-width="2"/>
+    <text x="417.3" y="160" fill="#465963" font-size="13">2019</text>
+    <rect x="456.2" y="128.7" width="20" height="8.3" rx="2" fill="#28786e"/>
+    <text x="466.2" y="121.7" fill="#111c26" font-size="13">1</text>
+    <text x="466.2" y="160" fill="#465963" font-size="13">2020</text>
+    <path d="M511.1 137h8" stroke="#465963" stroke-width="2"/>
+    <text x="515.1" y="160" fill="#465963" font-size="13">2021</text>
+    <rect x="554.0" y="128.7" width="20" height="8.3" rx="2" fill="#28786e"/>
+    <text x="564.0" y="121.7" fill="#111c26" font-size="13">1</text>
+    <text x="564.0" y="160" fill="#465963" font-size="13">2022</text>
+    <path d="M608.9 137h8" stroke="#465963" stroke-width="2"/>
+    <text x="612.9" y="160" fill="#465963" font-size="13">2023</text>
+    <rect x="651.8" y="112.1" width="20" height="24.9" rx="2" fill="#28786e"/>
+    <text x="661.8" y="105.1" fill="#111c26" font-size="13">3</text>
+    <text x="661.8" y="160" fill="#465963" font-size="13">2024</text>
+    <path d="M706.7 137h8" stroke="#465963" stroke-width="2"/>
+    <text x="710.7" y="160" fill="#465963" font-size="13">2025</text>
+    <rect x="749.6" y="128.7" width="20" height="8.3" rx="2" fill="#a3651a"/>
+    <text x="759.6" y="121.7" fill="#111c26" font-size="13">1</text>
+    <text x="759.6" y="160" fill="#465963" font-size="13">2026</text>
+  </g>
+  </g>
+</svg>
