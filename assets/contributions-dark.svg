@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="204" viewBox="0 0 840 204" role="img" aria-labelledby="title desc">
 <title id="title">Paul's contribution trail</title>
-<desc id="desc">GitHub's public calendar from 2025-11-16 to 2026-11-21, with 34 active days. An amber snake follows the active dates. Darker teal on paper and brighter teal in dark mode indicate more activity.</desc>
+<desc id="desc">GitHub's public calendar from 2025-11-23 to 2026-11-23, with 35 active days. An amber snake follows the active dates. Darker teal on paper and brighter teal in dark mode indicate more activity.</desc>
 <defs>
   <pattern id="grid" patternUnits="userSpaceOnUse" x="58" y="72" width="14" height="14"><rect width="10" height="10" rx="2.5" fill="#273944"/></pattern>
   <clipPath id="plot"><rect x="56" y="70" width="742" height="98"/></clipPath>
-  <path id="route" d="M21 91 L77 91 L175 77 L189 133 L203 119 L203 133 L231 91 L245 77 L245 147 L259 133 L273 105 L273 133 L273 161 L329 91 L329 161 L343 133 L385 91 L385 105 L399 91 L623 133 L623 147 L637 91 L637 105 L637 119 L651 147 L679 119 L679 133 L707 105 L707 133 L721 105 L749 77 L749 91 L763 91 L791 105 L791 119 L833 119"/>
+  <path id="route" d="M21 91 L63 91 L161 77 L175 133 L189 119 L189 133 L217 91 L231 77 L231 147 L245 133 L259 105 L259 133 L259 161 L315 91 L315 161 L329 133 L371 91 L371 105 L385 91 L609 133 L609 147 L623 91 L623 105 L623 119 L637 147 L665 119 L665 133 L693 105 L693 133 L707 105 L735 77 L735 91 L749 91 L777 105 L777 119 L791 91 L833 91"/>
 </defs>
 <style>
   text { fill:#a2b8b4; font:11px 'IBM Plex Mono',Menlo,Consolas,monospace; }
@@ -13,81 +13,81 @@
   @keyframes nibble { 0%,9%,100% { opacity:1; } 1%,4% { opacity:0; } }
   @media (prefers-reduced-motion:no-preference) {
     .motion { display:inline; }
-    .food { animation:nibble 29.477s linear infinite; }
+    .food { animation:nibble 29.830s linear infinite; }
   }
 </style>
 <rect x=".5" y=".5" width="839" height="203" rx="12" fill="#111c26" stroke="#36484f"/>
 <g transform="translate(27 27)" fill="#f0b76d"><path d="M0 6h4q4 0 4-5t5-5h4q4 0 4 4t4 4h3" fill="none" stroke="#f0b76d" stroke-width="4" stroke-linecap="round"/><ellipse cx="29" cy="4" rx="4" ry="3.2"/><circle cx="30" cy="3" r=".8" fill="#182731"/></g>
 <text x="69" y="36" class="heading">Contribution trail</text>
-<text x="812" y="34" text-anchor="end">34 active days</text>
-<text x="58" y="61" >Nov</text>
-<text x="86" y="61" >Dec</text>
-<text x="142" y="61" >Jan</text>
-<text x="212" y="61" >Feb</text>
-<text x="268" y="61" >Mar</text>
-<text x="324" y="61" >Apr</text>
-<text x="380" y="61" >May</text>
-<text x="450" y="61" >Jun</text>
-<text x="506" y="61" >Jul</text>
-<text x="562" y="61" >Aug</text>
-<text x="632" y="61" >Sep</text>
-<text x="688" y="61" >Oct</text>
-<text x="758" y="61" >Nov</text>
+<text x="812" y="34" text-anchor="end">35 active days</text>
+<text x="72" y="61" >Dec</text>
+<text x="128" y="61" >Jan</text>
+<text x="198" y="61" >Feb</text>
+<text x="254" y="61" >Mar</text>
+<text x="310" y="61" >Apr</text>
+<text x="366" y="61" >May</text>
+<text x="436" y="61" >Jun</text>
+<text x="492" y="61" >Jul</text>
+<text x="548" y="61" >Aug</text>
+<text x="618" y="61" >Sep</text>
+<text x="674" y="61" >Oct</text>
+<text x="744" y="61" >Nov</text>
 <text x="48" y="95" text-anchor="end">Mon</text>
 <text x="48" y="123" text-anchor="end">Wed</text>
 <text x="48" y="151" text-anchor="end">Fri</text>
 <rect x="58" y="72" width="738" height="10" fill="url(#grid)"/>
 <rect x="58" y="86" width="738" height="10" fill="url(#grid)"/>
-<rect x="58" y="100" width="738" height="10" fill="url(#grid)"/>
-<rect x="58" y="114" width="738" height="10" fill="url(#grid)"/>
-<rect x="58" y="128" width="738" height="10" fill="url(#grid)"/>
-<rect x="58" y="142" width="738" height="10" fill="url(#grid)"/>
-<rect x="58" y="156" width="738" height="10" fill="url(#grid)"/>
-<rect class="food" x="72" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-0.007s"><title>2025-11-24: activity level 1 of 4</title></rect>
-<rect class="food" x="170" y="72" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-27.464s"><title>2026-01-11: activity level 1 of 4</title></rect>
-<rect class="food" x="184" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-26.286s"><title>2026-01-22: activity level 1 of 4</title></rect>
-<rect class="food" x="198" y="114" width="10" height="10" rx="2.5" fill="#398374" style="animation-delay:-25.882s"><title>2026-01-28: activity level 2 of 4</title></rect>
-<rect class="food" x="198" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-25.596s"><title>2026-01-29: activity level 1 of 4</title></rect>
-<rect class="food" x="226" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-24.566s"><title>2026-02-09: activity level 1 of 4</title></rect>
-<rect class="food" x="240" y="72" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-24.162s"><title>2026-02-15: activity level 1 of 4</title></rect>
-<rect class="food" x="240" y="142" width="10" height="10" rx="2.5" fill="#398374" style="animation-delay:-22.733s"><title>2026-02-20: activity level 2 of 4</title></rect>
-<rect class="food" x="254" y="128" width="10" height="10" rx="2.5" fill="#398374" style="animation-delay:-22.329s"><title>2026-02-26: activity level 2 of 4</title></rect>
-<rect class="food" x="268" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-21.690s"><title>2026-03-03: activity level 1 of 4</title></rect>
-<rect class="food" x="268" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-21.119s"><title>2026-03-05: activity level 1 of 4</title></rect>
-<rect class="food" x="268" y="156" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-20.548s"><title>2026-03-07: activity level 1 of 4</title></rect>
-<rect class="food" x="324" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-18.718s"><title>2026-03-30: activity level 1 of 4</title></rect>
-<rect class="food" x="324" y="156" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-17.290s"><title>2026-04-04: activity level 1 of 4</title></rect>
-<rect class="food" x="338" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-16.651s"><title>2026-04-09: activity level 1 of 4</title></rect>
-<rect class="food" x="380" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-15.438s"><title>2026-04-27: activity level 1 of 4</title></rect>
-<rect class="food" x="380" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-15.153s"><title>2026-04-28: activity level 1 of 4</title></rect>
-<rect class="food" x="394" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-14.749s"><title>2026-05-04: activity level 1 of 4</title></rect>
-<rect class="food" x="618" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-10.098s"><title>2026-08-27: activity level 1 of 4</title></rect>
-<rect class="food" x="618" y="142" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-9.812s"><title>2026-08-28: activity level 1 of 4</title></rect>
-<rect class="food" x="632" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-8.634s"><title>2026-08-31: activity level 1 of 4</title></rect>
-<rect class="food" x="632" y="100" width="10" height="10" rx="2.5" fill="#398374" style="animation-delay:-8.348s"><title>2026-09-01: activity level 2 of 4</title></rect>
-<rect class="food" x="632" y="114" width="10" height="10" rx="2.5" fill="#9ae2c6" style="animation-delay:-8.062s"><title>2026-09-02: activity level 4 of 4</title></rect>
-<rect class="food" x="646" y="142" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-7.424s"><title>2026-09-11: activity level 1 of 4</title></rect>
-<rect class="food" x="674" y="114" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-6.615s"><title>2026-09-23: activity level 1 of 4</title></rect>
-<rect class="food" x="674" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-6.330s"><title>2026-09-24: activity level 1 of 4</title></rect>
-<rect class="food" x="702" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-5.522s"><title>2026-10-06: activity level 1 of 4</title></rect>
-<rect class="food" x="702" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-4.950s"><title>2026-10-08: activity level 1 of 4</title></rect>
-<rect class="food" x="716" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-4.311s"><title>2026-10-13: activity level 1 of 4</title></rect>
-<rect class="food" x="744" y="72" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-3.503s"><title>2026-10-25: activity level 1 of 4</title></rect>
-<rect class="food" x="744" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-3.217s"><title>2026-10-26: activity level 1 of 4</title></rect>
-<rect class="food" x="758" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-2.932s"><title>2026-11-02: activity level 1 of 4</title></rect>
-<rect class="food" x="786" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-2.293s"><title>2026-11-17: activity level 1 of 4</title></rect>
-<rect class="food" x="786" y="114" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-2.007s"><title>2026-11-18: activity level 1 of 4</title></rect>
+<rect x="58" y="100" width="724" height="10" fill="url(#grid)"/>
+<rect x="58" y="114" width="724" height="10" fill="url(#grid)"/>
+<rect x="58" y="128" width="724" height="10" fill="url(#grid)"/>
+<rect x="58" y="142" width="724" height="10" fill="url(#grid)"/>
+<rect x="58" y="156" width="724" height="10" fill="url(#grid)"/>
+<rect class="food" x="58" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-0.293s"><title>2025-11-24: activity level 1 of 4</title></rect>
+<rect class="food" x="156" y="72" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-28.103s"><title>2026-01-11: activity level 1 of 4</title></rect>
+<rect class="food" x="170" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-26.925s"><title>2026-01-22: activity level 1 of 4</title></rect>
+<rect class="food" x="184" y="114" width="10" height="10" rx="2.5" fill="#398374" style="animation-delay:-26.521s"><title>2026-01-28: activity level 2 of 4</title></rect>
+<rect class="food" x="184" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-26.235s"><title>2026-01-29: activity level 1 of 4</title></rect>
+<rect class="food" x="212" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-25.205s"><title>2026-02-09: activity level 1 of 4</title></rect>
+<rect class="food" x="226" y="72" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-24.801s"><title>2026-02-15: activity level 1 of 4</title></rect>
+<rect class="food" x="226" y="142" width="10" height="10" rx="2.5" fill="#398374" style="animation-delay:-23.372s"><title>2026-02-20: activity level 2 of 4</title></rect>
+<rect class="food" x="240" y="128" width="10" height="10" rx="2.5" fill="#398374" style="animation-delay:-22.968s"><title>2026-02-26: activity level 2 of 4</title></rect>
+<rect class="food" x="254" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-22.329s"><title>2026-03-03: activity level 1 of 4</title></rect>
+<rect class="food" x="254" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-21.758s"><title>2026-03-05: activity level 1 of 4</title></rect>
+<rect class="food" x="254" y="156" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-21.186s"><title>2026-03-07: activity level 1 of 4</title></rect>
+<rect class="food" x="310" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-19.357s"><title>2026-03-30: activity level 1 of 4</title></rect>
+<rect class="food" x="310" y="156" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-17.928s"><title>2026-04-04: activity level 1 of 4</title></rect>
+<rect class="food" x="324" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-17.290s"><title>2026-04-09: activity level 1 of 4</title></rect>
+<rect class="food" x="366" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-16.077s"><title>2026-04-27: activity level 1 of 4</title></rect>
+<rect class="food" x="366" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-15.792s"><title>2026-04-28: activity level 1 of 4</title></rect>
+<rect class="food" x="380" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-15.388s"><title>2026-05-04: activity level 1 of 4</title></rect>
+<rect class="food" x="604" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-10.736s"><title>2026-08-27: activity level 1 of 4</title></rect>
+<rect class="food" x="604" y="142" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-10.451s"><title>2026-08-28: activity level 1 of 4</title></rect>
+<rect class="food" x="618" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-9.273s"><title>2026-08-31: activity level 1 of 4</title></rect>
+<rect class="food" x="618" y="100" width="10" height="10" rx="2.5" fill="#398374" style="animation-delay:-8.987s"><title>2026-09-01: activity level 2 of 4</title></rect>
+<rect class="food" x="618" y="114" width="10" height="10" rx="2.5" fill="#9ae2c6" style="animation-delay:-8.701s"><title>2026-09-02: activity level 4 of 4</title></rect>
+<rect class="food" x="632" y="142" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-8.062s"><title>2026-09-11: activity level 1 of 4</title></rect>
+<rect class="food" x="660" y="114" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-7.254s"><title>2026-09-23: activity level 1 of 4</title></rect>
+<rect class="food" x="660" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-6.969s"><title>2026-09-24: activity level 1 of 4</title></rect>
+<rect class="food" x="688" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-6.160s"><title>2026-10-06: activity level 1 of 4</title></rect>
+<rect class="food" x="688" y="128" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-5.589s"><title>2026-10-08: activity level 1 of 4</title></rect>
+<rect class="food" x="702" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-4.950s"><title>2026-10-13: activity level 1 of 4</title></rect>
+<rect class="food" x="730" y="72" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-4.142s"><title>2026-10-25: activity level 1 of 4</title></rect>
+<rect class="food" x="730" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-3.856s"><title>2026-10-26: activity level 1 of 4</title></rect>
+<rect class="food" x="744" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-3.571s"><title>2026-11-02: activity level 1 of 4</title></rect>
+<rect class="food" x="772" y="100" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-2.932s"><title>2026-11-17: activity level 1 of 4</title></rect>
+<rect class="food" x="772" y="114" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-2.646s"><title>2026-11-18: activity level 1 of 4</title></rect>
+<rect class="food" x="786" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-2.007s"><title>2026-11-23: activity level 1 of 4</title></rect>
 <g class="motion" clip-path="url(#plot)" fill="#f0b76d">
-<g color="#f0b76d"><circle r="1.9"/><animateMotion dur="29.477s" begin="-0.579s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
-<g color="#f0b76d"><circle r="2.6"/><animateMotion dur="29.477s" begin="-0.660s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
-<g color="#f0b76d"><circle r="3.1"/><animateMotion dur="29.477s" begin="-0.742s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
-<g color="#f0b76d"><circle r="3.5"/><animateMotion dur="29.477s" begin="-0.823s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
-<g color="#f0b76d"><circle r="3.8"/><animateMotion dur="29.477s" begin="-0.905s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
-<g color="#f0b76d"><circle r="4"/><animateMotion dur="29.477s" begin="-0.987s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
-<g color="#f0b76d"><circle r="4.1"/><animateMotion dur="29.477s" begin="-1.068s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
-<g color="#f0b76d"><path d="M-5-2.7Q-1-5.4 4-3.5Q8-2.4 8 0T4 3.5Q-1 5.4-5 2.7Z"/><path d="M7 0h3l2-1.6m-2 1.6 2 1.6" fill="none" stroke="currentColor" stroke-width="1.2"/><g fill="#182731"><circle cx="3.2" cy="-2" r="1"/><circle cx="3.2" cy="2" r="1"/></g><animateMotion dur="29.477s" begin="-1.150s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
+<g color="#f0b76d"><circle r="1.9"/><animateMotion dur="29.830s" begin="-0.579s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
+<g color="#f0b76d"><circle r="2.6"/><animateMotion dur="29.830s" begin="-0.660s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
+<g color="#f0b76d"><circle r="3.1"/><animateMotion dur="29.830s" begin="-0.742s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
+<g color="#f0b76d"><circle r="3.5"/><animateMotion dur="29.830s" begin="-0.823s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
+<g color="#f0b76d"><circle r="3.8"/><animateMotion dur="29.830s" begin="-0.905s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
+<g color="#f0b76d"><circle r="4"/><animateMotion dur="29.830s" begin="-0.987s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
+<g color="#f0b76d"><circle r="4.1"/><animateMotion dur="29.830s" begin="-1.068s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
+<g color="#f0b76d"><path d="M-5-2.7Q-1-5.4 4-3.5Q8-2.4 8 0T4 3.5Q-1 5.4-5 2.7Z"/><path d="M7 0h3l2-1.6m-2 1.6 2 1.6" fill="none" stroke="currentColor" stroke-width="1.2"/><g fill="#182731"><circle cx="3.2" cy="-2" r="1"/><circle cx="3.2" cy="2" r="1"/></g><animateMotion dur="29.830s" begin="-1.150s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
 </g>
-<text x="27" y="189" >Nov 16, 2025 – Nov 21, 2026</text>
+<text x="27" y="189" >Nov 23, 2025 – Nov 23, 2026</text>
 <text x="665" y="189" >Less</text>
 <rect x="700" y="180" width="10" height="10" rx="2.5" fill="#273944"/>
 <rect x="714" y="180" width="10" height="10" rx="2.5" fill="#345d56"/>
