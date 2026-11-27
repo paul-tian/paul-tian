@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="204" viewBox="0 0 840 204" role="img" aria-labelledby="title desc">
 <title id="title">Paul's contribution trail</title>
-<desc id="desc">GitHub's public calendar from 2025-11-23 to 2026-11-26, with 36 active days. An amber snake follows the active dates. Darker teal on paper and brighter teal in dark mode indicate more activity.</desc>
+<desc id="desc">GitHub's public calendar from 2025-11-23 to 2026-11-27, with 36 active days. An amber snake follows the active dates. Darker teal on paper and brighter teal in dark mode indicate more activity.</desc>
 <defs>
   <pattern id="grid" patternUnits="userSpaceOnUse" x="58" y="72" width="14" height="14"><rect width="10" height="10" rx="2.5" fill="#273944"/></pattern>
   <clipPath id="plot"><rect x="56" y="70" width="742" height="98"/></clipPath>
@@ -40,7 +40,7 @@
 <rect x="58" y="100" width="738" height="10" fill="url(#grid)"/>
 <rect x="58" y="114" width="738" height="10" fill="url(#grid)"/>
 <rect x="58" y="128" width="738" height="10" fill="url(#grid)"/>
-<rect x="58" y="142" width="724" height="10" fill="url(#grid)"/>
+<rect x="58" y="142" width="738" height="10" fill="url(#grid)"/>
 <rect x="58" y="156" width="724" height="10" fill="url(#grid)"/>
 <rect class="food" x="58" y="86" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-0.293s"><title>2025-11-24: activity level 1 of 4</title></rect>
 <rect class="food" x="156" y="72" width="10" height="10" rx="2.5" fill="#345d56" style="animation-delay:-28.389s"><title>2026-01-11: activity level 1 of 4</title></rect>
@@ -88,7 +88,7 @@
 <g color="#f0b76d"><circle r="4.1"/><animateMotion dur="30.116s" begin="-1.068s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
 <g color="#f0b76d"><path d="M-5-2.7Q-1-5.4 4-3.5Q8-2.4 8 0T4 3.5Q-1 5.4-5 2.7Z"/><path d="M7 0h3l2-1.6m-2 1.6 2 1.6" fill="none" stroke="currentColor" stroke-width="1.2"/><g fill="#182731"><circle cx="3.2" cy="-2" r="1"/><circle cx="3.2" cy="2" r="1"/></g><animateMotion dur="30.116s" begin="-1.150s" rotate="auto" repeatCount="indefinite"><mpath xlink:href="#route"/></animateMotion></g>
 </g>
-<text x="27" y="189" >Nov 23, 2025 – Nov 26, 2026</text>
+<text x="27" y="189" >Nov 23, 2025 – Nov 27, 2026</text>
 <text x="665" y="189" >Less</text>
 <rect x="700" y="180" width="10" height="10" rx="2.5" fill="#273944"/>
 <rect x="714" y="180" width="10" height="10" rx="2.5" fill="#345d56"/>
